@@ -1,0 +1,15 @@
+# Gradle
+build/
+.gradle/
+
+# IDE (uncomment if you don’t want to share IDE settings)
+# .idea/
+# *.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / local
+*.log
+*.tmp
